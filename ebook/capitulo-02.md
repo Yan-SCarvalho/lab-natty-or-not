@@ -1,4 +1,4 @@
-##Capítulo 2 – Treinos Personalizados e Prevenção de Lesões
+#Capítulo 2 – Treinos Personalizados e Prevenção de Lesões
 
 Cada jogador tem um corpo e um ritmo únicos.
 
