@@ -1,4 +1,4 @@
-#Título do E-book: Inteligência em Campo – Como as IAs Generativas Estão Transformando o Futebol
+#Inteligência em Campo – Como as IAs Generativas Estão Transformando o Futebol
 
 ## Capítulo 1: Da Análise de Dados à Criação de Estratégias
 
