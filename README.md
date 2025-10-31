@@ -8,7 +8,7 @@ conteúdo cobre as principais áreas
 transformadas pela tecnologia: Estratégia 
 Tática, Saúde e Perfomace, Recrutamento
 de Talentos, Engajamento do Torcedor e os
-Desafios èticos do futuro do esporte.
+Desafios Éticos do futuro do esporte.
 
 * **E-book Completo (6 Partes):**[https://github.com/
 Yan-SCarvalho/lab-natty-or-not/tree/main/ebook]
