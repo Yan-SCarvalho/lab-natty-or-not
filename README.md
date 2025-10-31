@@ -10,8 +10,7 @@ Tática, Saúde e Perfomace, Recrutamento
 de Talentos, Engajamento do Torcedor e os
 Desafios Éticos do futuro do esporte.
 
-* **E-book Completo (6 Partes):**[https://github.com/
-Yan-SCarvalho/lab-natty-or-not/tree/main/ebook]
+* **E-book Completo (6 Partes):**[https://github.com/Yan-SCarvalho/lab-natty-or-not/tree/main/ebook]
 
 
 ## 🤖 Tecnologias Utilizadas
