@@ -3,10 +3,10 @@
 ## 📒 Descrição
 E-book de 6 partes (Capítulos 1 a 5 e
 a conclusão) que explora o impacto da IA
-Generativa na reivenção do futebol. O
+Generativa na reinvenção do futebol. O
 conteúdo cobre as principais áreas
 transformadas pela tecnologia: Estratégia 
-Tática, Saúde e Perfomace, Recrutamento
+Tática, Saúde e Performance, Recrutamento
 de Talentos, Engajamento do Torcedor e os
 Desafios Éticos do futuro do esporte.
 
