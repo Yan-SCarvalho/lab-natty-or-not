@@ -1,51 +1,59 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Inteligência em Campo: E-book sobre IA Generativa no Futebol
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book de 6 partes (Capítulos 1 a 5 e
+a conclusão) que explora o impacto da IA
+Generativa na reivenção do futebol. O
+conteúdo cobre as principais áreas
+transformadas pela tecnologia: Estratégia 
+Tática, Saúde e Perfomace, Recrutamento
+de Talentos, Engajamento do Torcedor e os
+Desafios èticos do futuro do esporte.
+
+* **E-book Completo (6 Partes):**[https://github.com/
+Yan-SCarvalho/lab-natty-or-not/tree/main/ebook]
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **IA Generativa:** ChatGPT / Gemini.
+* **GitHub:** Utilizado para hospedagem,
+versionamento e entrega do projeto em
+formato Markdown.
+* **Markdown:** Linguagem de marcação
+para estrututar o e-book (Títulos,
+negrito e parágrafos).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição do Tema:** Escolha do tema
+"IA Generativa no Futebol" para criar um
+conteúdo original e relevante.
+2. **Criação da Estrutura:** O e-book foi
+dividido em 5 Capitulos e 1 Conclusão,
+cobrindo o ciclo completo da IA no
+esporte.
+3. **Desenvolvimento do conteúdo:**
+Utilização de IA para o desenvolvimento e
+curadoria do texto, focado em clareza e
+impacto.
+4. **Estruturação do no GitHub:** Criação da
+pasta `ebook/` e dos 6 arquivos em
+formato Markdown diretamente no
+repositório.
+5. **Autoria:** Projeto desenvolvido e
+formatado por **Yan Carvalho**.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+* E-book completo com 5 capítulos
+e conclusão.
+* Conteúdo focado e formatado em
+Markdown, pronto para leitura no GitHub.
+*Tema: Inteligência em Campo: E-book
+sobre IA Generativa no Futebol.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O Desafio de criar um e-book 'natty'
+(autêntico e de qualidade) com IA reforça
+que a ferramenta é uma **aliada
+poderosa** para estruturar e refinar
+ideas complexas, mas o toque final e a
+curadoria criativa ainda dependem da visão humana.
