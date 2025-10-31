@@ -34,7 +34,7 @@ esporte.
 Utilização de IA para o desenvolvimento e
 curadoria do texto, focado em clareza e
 impacto.
-4. **Estruturação do no GitHub:** Criação da
+4. **Estruturação no GitHub:** Criação da
 pasta `ebook/` e dos 6 arquivos em
 formato Markdown diretamente no
 repositório.
